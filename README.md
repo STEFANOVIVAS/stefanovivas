@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Caixa Econômica federal
 - 🌱 I’m currently learning Javascript and Python.
-- 👯 I’m intersted on Data Science and Financial Market
+- 👯 I’m intersted on Data Science, Financial Market and Homebrew.
 - 📫 How to reach me: www.linkedin.com/in/stéfano-vivas
 
 
