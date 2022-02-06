@@ -1,19 +1,13 @@
-<!-- ### Hi there 👋 -->
+### 👋 Hi there ! Welcome to my Github profile.
+### I'm a backend developer in a career change process!
 
-<!--
-**STEFANOVIVAS/stefanovivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Caixa Econômica federal
+- 🌱 I’m currently learning Javascript and Python.
+- 👯 I’m intersted on Data Science and Financial Market
+- 📫 How to reach me: www.linkedin.com/in/stéfano-vivas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
 <div>
   <a href="https://github.com/STEFANOVIVAS">
