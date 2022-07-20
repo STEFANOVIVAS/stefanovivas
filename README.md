@@ -3,7 +3,8 @@
 
 
 - 🔭 I’m currently working on Caixa Econômica federal
-- 🌱 I’m currently learning Javascript and Python.
+- 🌱 I have knowledge in Python and Javascript languages.
+- 🌱 I'm currently learning java with the courses given by Loiane Groner and Nélio Alves, in addition to using the book Head first Java as a bibliographic reference.
 - 👯 I’m intersted on Data Science, Financial Market and Homebrew.
 - 📫 How to reach me: www.linkedin.com/in/stéfano-vivas
 
