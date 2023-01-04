@@ -3,8 +3,16 @@
 
 
 - 🔭 I’m currently working on Caixa Econômica federal
-- 🌱 I have knowledge in Python and Javascript languages.
-- 🌱 I'm currently learning java with the courses given by Loiane Groner and Nélio Alves, in addition to using the book Head first Java as a bibliographic reference.
+- 🌱 I have knowledge in Python and Java languages.
+- 🌱 I am currently participating in the program carried out in partnership between Ada, Google Cloud and the Americanas group aimed at training Back-end Java developers. Among the more than 20,000 candidates, 200 people were selected for the final phase of the selection process, whose training includes more than 354 hours of content, with the following topics:
+
+      * Programming logic;
+      * Object-oriented programming;
+      * Web Programming;
+      * Relational database (Postgres);
+      * Automated tests;
+      * Googlecloud.
+      
 - 👯 I’m intersted on Data Science, Financial Market and Homebrew.
 - 📫 How to reach me: www.linkedin.com/in/stéfano-vivas
 
