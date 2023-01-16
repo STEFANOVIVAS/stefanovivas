@@ -2,9 +2,11 @@
 ###  I'm a backend developer in a career change process!
 
 
-- 🔭 I’m currently working on Caixa Econômica federal
-- 🌱 I have knowledge in Python and Java languages.
-- 🌱 I am currently participating in the program carried out in partnership between Ada, Google Cloud and the Americanas group aimed at training Back-end Java developers. Among the more than 20,000 candidates, 200 people were selected for the final phase of the selection process, whose training includes more than 354 hours of content, with the following topics:
+- I’m currently working at Caixa Econômica Federal as a Analyst.
+- The tools I use in my day-to-day work are SQL Server, Power bi, Python and pandas.
+- I'm majoring in Economics at federal University of pernambuco(UFPE).
+- I have knowledge in Java, Python and SQL languages.
+- I am currently participating in the program carried out in partnership between Ada, Google Cloud and the Americanas group aimed at training Back-end Java developers. Among the more than 20,000 candidates, 200 people were selected for the final phase of the selection process, whose training includes more than 354 hours of content, with the following topics:
 
       * Programming logic;
       * Object-oriented programming;
@@ -13,7 +15,7 @@
       * Automated tests;
       * Googlecloud.
       
-- 👯 I’m intersted on Data Science, Financial Market and Homebrew.
+- 👯 I’m intersted in Data Science, Financial Markets and Homebrewing.
 - 📫 How to reach me: www.linkedin.com/in/stéfano-vivas
 
 
