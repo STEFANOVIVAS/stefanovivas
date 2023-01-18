@@ -15,7 +15,7 @@
       * Automated tests;
       * Googlecloud.
       
-- 👯 I’m intersted in Data Science, Financial Markets and Homebrewing.
+- 👯 I’m interested in Data Science, Financial Markets and Homebrewing.
 - 📫 How to reach me: www.linkedin.com/in/stéfano-vivas
 
 
