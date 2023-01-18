@@ -19,13 +19,6 @@
 - 📫 How to reach me: www.linkedin.com/in/stéfano-vivas
 
 
-
-<div>
-  <a href="https://github.com/STEFANOVIVAS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=STEFANOVIVAS&show_icons=true&theme=dracula">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STEFANOVIVAS&layout=compact&theme=dracula">
-</div>
-
 <div style="display:inline_block"><br>
   <img align="center" alt="stefano.-python" height="80" width="100" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg">
   <img align="center" alt="stefano.-python" height="80" width="100" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original-wordmark.svg">
