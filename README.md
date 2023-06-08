@@ -6,8 +6,8 @@
 - The tools I use in my day-to-day work are SQL Server, Power bi, Python and pandas.
 - I'm majoring in Economics at federal University of pernambuco(UFPE).
 - I have knowledge in Python, SQL and Java languages.
-- 👯 I’m interested in Data Science, Financial Markets and Homebrewing.
-- 📫 How to reach me: www.linkedin.com/in/stéfano-vivas
+- I’m interested in Data Science, Financial Markets and Homebrewing.
+- How to reach me: www.linkedin.com/in/stéfano-vivas
 
 
 <div style="display:inline_block"><br>
