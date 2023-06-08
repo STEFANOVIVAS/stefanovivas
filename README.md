@@ -2,11 +2,11 @@
 ###  I'm a Data Engineer in a career change process!
 
 
-- I’m currently working at Caixa Econômica Federal as a Analyst.
+- I’m currently working at Caixa Econômica Federal as a mid-level Analyst.
 - The tools I use in my day-to-day work are SQL Server, Power bi, Python and pandas.
-- I'm majoring in Economics at federal University of pernambuco(UFPE).
+- I'm majoring in Economics at Federal University of Pernambuco(UFPE).
 - I have knowledge in Python, SQL and Java languages.
-- I’m interested in Data Science, Financial Markets and Homebrewing.
+- I’m interested in all the Data stack, Financial Markets and Homebrewing.
 - How to reach me: www.linkedin.com/in/stéfano-vivas
 
 
